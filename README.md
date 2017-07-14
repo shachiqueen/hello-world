@@ -1,2 +1,3 @@
 # hello-world
-勉強開始
+
+This is beginning of my study :)
